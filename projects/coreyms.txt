@@ -1,0 +1,50 @@
+Headline: Python Tutorial: Zip Files – Creating and Extracting Zip Archives 
+summary: In this video, we will be learning how to create and extract zip archives. We will start by using the zipfile module, and then we will see how to do this using the shutil module. We will learn how to do this with single files and directories, as well as learning how to use gzip as well. Let’s get started… 
+link: https://coreyms.com/development/python/python-tutorial-zip-files-creating-and-extracting-zip-archives 
+
+
+Headline: Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey 
+summary: In this Python Programming video, we will be learning how to download and analyze real-world data from the 2019 Stack Overflow Developer Survey. This is terrific practice for anyone getting into the data science field. We will learn different ways to analyze this data and also some best practices. Let’s get started… 
+link: https://coreyms.com/development/python/python-data-science-tutorial-analyzing-the-2019-stack-overflow-developer-survey 
+
+
+Headline: Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module 
+summary: In this Python Programming video, we will be learning how to run code in parallel using the multiprocessing module. We will also look at how to process multiple high-resolution images at the same time using a ProcessPoolExecutor from the concurrent.futures module. Let’s get started… 
+link: https://coreyms.com/development/python/python-multiprocessing-tutorial-run-code-in-parallel-using-the-multiprocessing-module 
+
+
+Headline: Python Threading Tutorial: Run Code Concurrently Using the Threading Module 
+summary: In this Python Programming video, we will be learning how to run threads concurrently using the threading module. We will also look at how to download multiple high-resolution images online using a ThreadPoolExecutor from the concurrent.futures module. Let’s get started… 
+link: https://coreyms.com/development/python/python-threading-tutorial-run-code-concurrently-using-the-threading-module 
+
+
+Headline: Update (2019-09-03) 
+summary: Hey everyone. I wanted to give you an update on my videos. I will be releasing videos on threading and multiprocessing within the next week. Thanks so much for your patience. I currently have a temporary recording studio setup at my Airbnb that will allow me to record and edit the threading/multiprocessing videos. I am going to be moving into my new house in 10 days and once I have my recording studio setup then you can expect much faster video releases. I really appreciate how patient everyone has been while I go through this move, especially those of you who are contributing monthly through YouTube  
+link: https://coreyms.com/general/update-2019-09-03 
+
+
+Headline: Python Quick Tip: The Difference Between “==” and “is” (Equality vs Identity) 
+summary: In this Python Programming Tutorial, we will be learning the difference between using “==” and the “is” keyword when doing comparisons. The difference between these is that “==” checks to see if values are equal, and the “is” keyword checks their identity, which means it’s going to check if the values are identical in terms of being the same object in memory. We’ll learn more in the video. Let’s get started… 
+link: https://coreyms.com/development/python/python-quick-tip-the-difference-between-and-is-equality-vs-identity 
+
+
+Headline: Python Tutorial: Calling External Commands Using the Subprocess Module 
+summary: In this Python Programming Tutorial, we will be learning how to run external commands using the subprocess module from the standard library. We will learn how to run commands, capture the output, handle errors, and also how to pipe output into other commands. Let’s get started… 
+link: https://coreyms.com/development/python/python-tutorial-calling-external-commands-using-the-subprocess-module 
+
+
+Headline: Visual Studio Code (Windows) – Setting up a Python Development Environment and Complete Overview 
+summary: In this Python Programming Tutorial, we will be learning how to set up a Python development environment in VSCode on Windows. VSCode is a very nice free editor for writing Python applications and many developers are now switching over to this editor. In this video, we will learn how to install VSCode, get the Python extension installed, how to change Python interpreters, create virtual environments, format/lint our code, how to use Git within VSCode, how to debug our programs, how unit testing works, and more. We have a lot to cover, so let’s go ahead and get started… 
+link: https://coreyms.com/development/python/visual-studio-code-windows-setting-up-a-python-development-environment-and-complete-overview 
+
+
+Headline: Visual Studio Code (Mac) – Setting up a Python Development Environment and Complete Overview 
+summary: In this Python Programming Tutorial, we will be learning how to set up a Python development environment in VSCode on MacOS. VSCode is a very nice free editor for writing Python applications and many developers are now switching over to this editor. In this video, we will learn how to install VSCode, get the Python extension installed, how to change Python interpreters, create virtual environments, format/lint our code, how to use Git within VSCode, how to debug our programs, how unit testing works, and more. We have a lot to cover, so let’s go ahead and get started… 
+link: https://coreyms.com/development/python/visual-studio-code-mac-setting-up-a-python-development-environment-and-complete-overview 
+
+
+Headline: Clarifying the Issues with Mutable Default Arguments 
+summary: In this Python Programming Tutorial, we will be clarifying the issues with mutable default arguments. We discussed this in my last video titled “5 Common Python Mistakes and How to Fix Them”, but I received many comments from people who were still confused. So we will be doing a deeper dive to explain exactly what is going on here. Let’s get started… 
+link: https://coreyms.com/development/python/clarifying-the-issues-with-mutable-default-arguments 
+
+
